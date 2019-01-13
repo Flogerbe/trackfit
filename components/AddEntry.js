@@ -18,9 +18,9 @@ export default class AddEntry extends Component {
 
   state = {
     run: 0,
-    bike: 14,
+    bike: 0,
     swim: 0,
-    sleep: 44,
+    sleep: 0,
     eat: 0
   }
 
